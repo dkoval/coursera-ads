@@ -1,0 +1,11 @@
+*.iml
+*.ipr
+*.iws
+.idea
+.DS_Store
+.classpath
+.project
+.settings
+*.log
+bin
+out
